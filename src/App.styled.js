@@ -19,7 +19,7 @@ export const StyledNav = styled.nav`
   padding: 20px 50px;
   gap: 40px;
   font-size: 50px;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   z-index: 3;
