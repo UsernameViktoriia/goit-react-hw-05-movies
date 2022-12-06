@@ -5,7 +5,7 @@ export const StyledNavLink = styled(NavLink)`
   display: flex;
   text-decoration: none;
   color: inherit;
-  &:active {
+  &.active {
     color: red;
   }
   &:hover {
