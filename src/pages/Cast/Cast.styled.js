@@ -1,0 +1,8 @@
+import styled from 'styled-components';
+
+export const CastItem = styled.li`
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  margin-bottom: 40px;
+`;
